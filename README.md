@@ -167,9 +167,4 @@ $ ./runTests			// performs using testing
 
 The emulator is designed using C++. To compile the project files, copy all the files from folder src to the main folder and type command “make” on the terminal.This will compile all the code files and create the object file “setup” which will be used to run the emulator. The emulator works on two modes of input. User can provide the code via input file (.asm) or one could also write it on the terminal. The user can run the whole code at once or he can also run it in the debugger mode. We have also provided a dummy code of bubble sort in the file bubblesort.asm(enter the address 2000 as the code is written using 2000 as the starting address).
 
-This project is a joint contribution of:
 
-Hardik Gaur (hardikgaur@geu.ac.in)
-Parth Trehan (parthendo@geu.ac.in)
-
-Please feel free to drop an e-mail for any suggestions and ideas.
